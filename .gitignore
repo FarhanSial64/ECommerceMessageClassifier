@@ -1,0 +1,9 @@
+# Virtual environments
+.streamlit/
+venv/
+*.pyc
+__pycache__/
+
+# Model and data files
+*.pkl
+*.pth
